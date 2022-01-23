@@ -19,3 +19,19 @@ body{
     color: white;
 }
 
+.fa-check-circle{
+    color: #12B0E8;
+}
+.pkg-btn{
+    color: #12B0E8;
+}
+
+#hover-clr{
+    background-color: #383CC1;
+    color: white;
+}
+#hover-clr:hover{
+    background-color: white;
+    color: black;
+    transition: all 1s ease-in-out;
+}
