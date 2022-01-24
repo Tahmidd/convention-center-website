@@ -4,6 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* header style  */
 
 .span-color{
     color: grey;
@@ -18,14 +19,16 @@ body{
     background-color: rgb(0, 110, 255);
     color: white;
 }
-
+/* icon color  */
 .fa-check-circle{
     color: #12B0E8;
 }
+
+/* package button color  */
 .pkg-btn{
     color: #12B0E8;
 }
-
+/* package style  */
 #hover-clr{
     background-color: #383CC1;
     color: white;
@@ -37,3 +40,4 @@ body{
     position: relative;
     bottom: 15px;
 }
+
